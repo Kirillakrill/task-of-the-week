@@ -1,4 +1,6 @@
 {
+  "route": "/login/*",
+  "serve": "/index.html",
   "headers": {
     "/*": {
       "X-Author": "190485",
