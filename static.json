@@ -1,7 +1,7 @@
 {
   "root": "login/",
   "routes": {
-    "/**": "public_html/login.html"
+    "/**": "login/login.html"
         },
   "headers": {
     "/*": {
