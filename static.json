@@ -1,7 +1,6 @@
 {
   "routes": {
     "/login/": "/login.html",
-    "/sample/": "/sample.html",
     "/fetch/": "/fetch.html",
     "/promise/": "/promise.html"
   },
@@ -15,15 +14,9 @@
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"      
     },
-    "/sample/": {
-      "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plain"      
-    },
-    "/fetch/": {
-      "Access-Control-Allow-Origin": "*"   
-    },
     "/promise/": {
-      "Access-Control-Allow-Origin": "*"    
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain"
     }
   }
 }
